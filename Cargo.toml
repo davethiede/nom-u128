@@ -1,0 +1,8 @@
+[package]
+name = "nom-u128"
+version = "0.1.0"
+authors = ["Dave <dave.local.com>"]
+edition = "2018"
+
+[dependencies]
+nom = "~4.2.0"
