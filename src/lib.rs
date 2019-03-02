@@ -1,7 +1,7 @@
 // #![feature(repeat_generic_slice)]
 
-//#[macro_use]
-//extern crate nom;
+#[macro_use]
+extern crate nom;
 
 use nom::*;
 use std::net::{IpAddr,Ipv4Addr,Ipv6Addr};
